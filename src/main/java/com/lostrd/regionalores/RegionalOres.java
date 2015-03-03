@@ -13,6 +13,8 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
 public class RegionalOres
 {
+    @Mod.Instance("RegionalOres")
+    public static RegionalOres instance;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
