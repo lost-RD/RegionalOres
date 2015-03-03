@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75db15a5-9964-4bbf-8a28-950c88037dea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lostrd/regionalores/RegionalOres.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegionalOres.iml" afterPath="$PROJECT_DIR$/RegionalOres.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegionalOres.ipr" afterPath="$PROJECT_DIR$/RegionalOres.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegionalOres.iws" afterPath="$PROJECT_DIR$/RegionalOres.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\Minecraft\.location" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.resources\.root\0.tree" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.resources/.root/0.tree" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.epp.usagedata.gathering.prefs" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.gathering.prefs" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.debug.core\.launches\Client.launch" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.debug.core/.launches/Client.launch" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.debug.core\.launches\Server.launch" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.debug.core/.launches/Server.launch" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\.metadata\.plugins\org.eclipse.debug.ui\launchConfigurationHistory.xml" afterPath="$PROJECT_DIR$/run/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\config\forge.cfg" afterPath="$PROJECT_DIR$/run/config/forge.cfg" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\config\forgeChunkLoading.cfg" afterPath="$PROJECT_DIR$/run/config/forgeChunkLoading.cfg" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\logs\fml-client-latest.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-latest.log" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\logs\fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" />
-      <change type="MOVED" beforePath="E:\Forge\1.7\RegionalOres\eclipse\logs\latest.log" afterPath="$PROJECT_DIR$/run/logs/latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/latest.log" afterPath="$PROJECT_DIR$/run/logs/latest.log" />
     </list>
     <ignored path="RegionalOres.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,12 +71,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="RegionalOres.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lostrd/regionalores/RegionalOres.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35108694" vertical-offset="0" max-vertical-offset="1173">
-              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-              <folding />
+            <state vertical-scroll-proportion="0.39144737" vertical-offset="0" max-vertical-offset="680">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -655,6 +645,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lostrd/regionalores/RegionalOres.java" />
       </list>
     </option>
   </component>
@@ -692,7 +683,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="true" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -706,6 +697,10 @@
               <option name="myItemId" value="RegionalOres" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -713,7 +708,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle: :forgeSrc:1.7.10-10.13.2.1291" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forgeSrc-1.7.10-10.13.2.1291.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="RegionalOres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle: :forgeSrc:1.7.10-10.13.2.1291" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forgeSrc-1.7.10-10.13.2.1291.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegionalOres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle: :forgeSrc:1.7.10-10.13.2.1291" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forgeSrc-1.7.10-10.13.2.1291.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegionalOres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle: :forgeSrc:1.7.10-10.13.2.1291" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forgeSrc-1.7.10-10.13.2.1291.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="event" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -726,8 +807,30 @@
               <option name="myItemId" value="RegionalOres" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="run" />
+              <option name="myItemId" value="RegionalOres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegionalOres" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="regionalores" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -751,6 +854,10 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -905,7 +1012,7 @@
       <option name="MAIN_CLASS_NAME" value="GradleStart" />
       <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../RegionalOres\eclipse" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/run" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -963,12 +1070,14 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -977,13 +1086,11 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1029,5 +1136,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1291/forgeSrc-1.7.10-10.13.2.1291-sources.jar!/cpw/mods/fml/common/event/FMLPreInitializationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1291/forgeSrc-1.7.10-10.13.2.1291-sources.jar!/cpw/mods/fml/common/event/FMLInitializationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.2.1291/forgeSrc-1.7.10-10.13.2.1291-sources.jar!/cpw/mods/fml/common/event/FMLPostInitializationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lostrd/regionalores/RegionalOres.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39144737" vertical-offset="0" max-vertical-offset="680">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI" />
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RegionalOres</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI" />
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: :forgeSrc:1.7.10-10.13.2.1291</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI" />
+    </states>
   </component>
 </project>
