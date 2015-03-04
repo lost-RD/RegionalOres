@@ -1,9 +1,10 @@
+package com.lostrd.regionalores;
+
 /**
  * Created by lost_RD on 3/03/2015.
  */
 
-package com.lostrd.regionalores;
-
+import com.lostrd.regionalores.configuration.ConfigurationHandler;
 import com.lostrd.regionalores.proxy.IProxy;
 import com.lostrd.regionalores.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -19,7 +20,7 @@ public class RegionalOres
     @Mod.Instance(Reference.MOD_ID)
     public static RegionalOres instance;
 
-    @SidedProxy(clientSide = "com.lostrd.regionalores.proxy.ClientProxy", serverSide = "com.lostrd.regionalores.proxy.ServerProxy")
+    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
     public static IProxy proxy;
 
     @Mod.EventHandler
@@ -32,6 +33,8 @@ public class RegionalOres
         event.getModMetadata().authorList.add("lost_RD"); // Adding my name to the mod's author list
         event.getModMetadata().credits = "Dreamed up and coded by lost_RD";
         //event.getModMetadata().logoFile = "/path/to/your/logo/file/location/logo_file_name.png" // Setting the logo file location
+
+        ConfigurationHandler.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler
