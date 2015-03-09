@@ -4,16 +4,18 @@ package com.lostrd.regionalores;
  * Created by lost_RD on 3/03/2015.
  */
 
-import com.lostrd.regionalores.configuration.ConfigurationHandler;
+import com.lostrd.regionalores.handler.ConfigurationHandler;
 import com.lostrd.regionalores.proxy.IProxy;
 import com.lostrd.regionalores.reference.Reference;
+import com.lostrd.regionalores.utility.LogHelper;
+import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid= Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION)
+@Mod(modid= Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 
 public class RegionalOres
 {
@@ -35,17 +37,23 @@ public class RegionalOres
         //event.getModMetadata().logoFile = "/path/to/your/logo/file/location/logo_file_name.png" // Setting the logo file location
 
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+
+        LogHelper.info("Pre-initialisation complete");
     }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
 
+        LogHelper.info("Initialisation complete");
     }
 
+    @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
 
+        LogHelper.info("Post-initialisation complete");
     }
 
 }
